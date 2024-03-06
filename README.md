@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📖 My motto: “东隅已逝，桑榆非晚。”
 ---
 -->
-### 后端技术栈
+### Backend technology stack
 
 <p>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=FFF" alt="Spring" style="display: inline-block;" />&nbsp;
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/-Go-DCDCDC?logo=Go&logoColor=00ADD8" alt="Go" style="display: inline-block;" />&nbsp; -->
 </p>
 
-### 前端技术栈
+### Front technology stack
 
 <p>
   <img src="https://img.shields.io/badge/-Vue3-C0C0C0?logo=Vue.js&logoColor=4FC08D" alt="Vue3" style="display: inline-block;" />&nbsp;
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=FFF" alt="Ubuntu" style="display: inline-block;" />&nbsp;
 </p>
 
-### 运维技术栈
+### Operation and maintenance technology stack
 
 <p>
   <img src="https://img.shields.io/badge/-阿里云-FF6A00?logo=Alibaba-Cloud&logoColor=FFF" alt="阿里云" style="display: inline-block;" />&nbsp;
@@ -143,14 +143,14 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/-Lua-FFF?&logo=Lua&logoColor=2C2D72" alt="Lua" style="display: inline-block;" />&nbsp; -->
 </p>
 
-### 测试技术栈
+### Testing Technology Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=FFF" alt="Postman" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-JMeter-D3D3D3?logo=Apache-JMeter&logoColor=D22128" alt="JMeter" style="display: inline-block;" />&nbsp;
 </p>
 
-### 开发工具
+### Development tool
 
 <p>
   <img src="https://img.shields.io/badge/-Intellij%20IDEA-000?logo=Intellij-IDEA&logoColor=FFF" alt="Intellij IDEA" style="display: inline-block;" />&nbsp;
@@ -161,7 +161,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-VSCode-C0C0C0?logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode" style="display: inline-block;" />&nbsp;
 </p>
 
-### 其他
+### Other
 
 <p>
   <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
