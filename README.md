@@ -6,6 +6,24 @@
 <!-- https://count.getloli.com/ -->
 <img src="https://count.getloli.com/@Aimony?name=Aimony&theme=minecraft&padding=7&offset=50&align=top&scale=2&pixelated=1&darkmode=auto">
 
+
+```
+$ cat /etc/passwd | grep Aimony
+> A creative developer who is passionate about open source and building beautiful things.
+> While sleeping, I come up with more ideas.
+
+$ neofetch
+                                                                ,--,
+Aimony@github                    (__)                     _ ___/ /\|
+───────────                      (@@)_____            ,;'( )__, )  ~
+OS: Windows, Ubuntu              (oo)    /|\         //  //   '--; 
+Bio: Open Source Enthusiast        | |--/ | *        '   \     | ^
+Status: Sleeping                   w w w  w               ^    ^
+
+Loading: [ PROGRESS ██████████] 99.99%
+```
+
+
 <p align="center">
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Aimony&theme=github-compact&hide_border=true&area=true" />
@@ -21,3 +39,30 @@
 </p>
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
+
+
+
+<!-- 
+(__)
+(@@)_____
+(oo)    /|\
+  | |--/ | *
+  w w w  w
+
+
+           ,--,
+     _ ___/ /\|
+ ,;'( )__, )  ~
+//  //   '--; 
+'   \     | ^
+     ^    ^
+
+                         ,--,
+(__)               _ ___/ /\|
+(@@)_____      ,;'( )__, )  ~
+(oo)    /|\   //  //   '--; 
+  | |--/ | *  '   \     | ^
+  w w w  w         ^    ^
+ -->
+
+
