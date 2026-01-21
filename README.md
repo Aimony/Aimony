@@ -38,7 +38,17 @@ Loading: [ PROGRESS ██████████] 99.99%
   <img src="https://skillicons.dev/icons?i=spring&theme=light" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vue,react&theme=light" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql,redis,postgres&theme=light" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,nginx,github&theme=light" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=light" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,windows&theme=light" />
 </p>
 
-<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
+<img align=left src='https://github.githubassets.com/images/mona-whisper.gif' width="180"/>
+<img align=right src='https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif' width="180"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p>
+
+
+
+
+
 
 
 
